@@ -1,0 +1,13 @@
+{
+  "name": "react-table-custom-filtering-multiple-values-filter",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "main": "index.js",
+  "dependencies": {
+    "react": "15.5.3",
+    "react-dom": "15.5.3",
+    "react-select": "1.2.1",
+    "react-table": "6.5.3"
+  }
+}
